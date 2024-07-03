@@ -1,0 +1,16 @@
+{
+  "apiID": "package_2b6f2b__c__function_aadgqs5o65ois",
+  "apiName": "createdelete",
+  "label": {
+    "zh_CN": "创建用户删除用户",
+    "en_US": ""
+  },
+  "description": {
+    "zh_CN": "自定义函数",
+    "en_US": "Custom Function"
+  },
+  "longTaskMode": false,
+  "frontendSDKInvokable": true,
+  "input": [],
+  "output": []
+}
