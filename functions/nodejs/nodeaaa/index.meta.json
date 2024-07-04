@@ -1,0 +1,16 @@
+{
+  "apiID": "package_2b6f2b__c__function_aadgqyghdekdi",
+  "apiName": "nodeaaa",
+  "label": {
+    "zh_CN": "nodeaaa",
+    "en_US": "nodeaaa"
+  },
+  "description": {
+    "zh_CN": "自定义函数",
+    "en_US": "Custom Function"
+  },
+  "longTaskMode": false,
+  "frontendSDKInvokable": false,
+  "input": [],
+  "output": []
+}
