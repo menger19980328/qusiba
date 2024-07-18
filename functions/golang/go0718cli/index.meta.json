@@ -1,0 +1,16 @@
+{
+  "apiID": "package_2b6f2b__c__function_aadgtc7fhaodi",
+  "apiName": "go0718cli",
+  "label": {
+    "zh_CN": "go 0718 cli",
+    "en_US": "go 0718 cli"
+  },
+  "description": {
+    "zh_CN": "自定义函数",
+    "en_US": "Custom Function"
+  },
+  "longTaskMode": false,
+  "frontendSDKInvokable": false,
+  "input": [],
+  "output": []
+}
